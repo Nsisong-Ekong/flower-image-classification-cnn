@@ -29,8 +29,8 @@ Model 4 gave the best, most balanced performance. Future work: transfer learning
 
 | File | Description |
 |------|-------------|
-| `flower_cnn.ipynb` | CNN notebook (data loading, augmentation, model, training) |
-| `report.pdf` | Written report of methods, model iterations, and results |
+| `flower_species_cnn.ipynb` | CNN notebook (data loading, augmentation, model, training) |
+| `flower_classification_report.pdf` | Written report of methods, model iterations, and results |
 
 ## Tech stack
 
